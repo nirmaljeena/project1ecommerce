@@ -1,0 +1,50 @@
+body{
+    background-color: azure;
+
+  }
+  .main
+  {
+      position:relative;
+      height:600px;
+      width:1100px;;
+      top:2%;
+      left:18%;
+     
+  }
+  
+  .main input{
+      height:30px;
+      width:500px;
+      position: absolute;
+      top: 10%;
+  }
+  .main .lg
+  {   
+      position:absolute;
+      right:10%;
+      font-family: Arial, Helvetica, sans-serif;
+      text-decoration: none;
+      color:black;
+  }
+  .main .slide
+  {
+      color:black;
+      position: absolute;
+      right:9%;
+      cursor:none;
+  }
+  .main .su
+  {
+      position:absolute;
+      right:4%;
+      color:black;
+      font-family: Arial, Helvetica, sans-serif;
+      text-decoration: none;
+  }
+.main .dropdown select{
+    height:40px;
+    width: 250px;
+    color:rgb(19, 17, 17);
+    background-color:green;
+}
+
